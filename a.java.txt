@@ -3,7 +3,7 @@ class helloworld
 public static void main(String[] args)
 {
 System.out.println("heeo");
-System.out.println("world");
+System.out.println("wld");
 }
 
 }
